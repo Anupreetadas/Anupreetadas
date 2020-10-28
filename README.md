@@ -6,11 +6,13 @@ Machine 🛠 learning:robot:
 
 
 ![age](https://img.shields.io/badge/Age-20-purple)                                   ![living](https://img.shields.io/badge/Living-Bhubaneswar-blue)
-🔭 I’m currently working on Full-stack web development
-🌱 I’m currently learning ReactJS,NodeJS,Machine learning
-👯 I’m looking to collaborate on web-dev projects.
-📫 How to reach me: You may follow me on [Instagram](https://www.instagram.com/_anu_36) or [Facebook](https://www.facebook.com/anupreet.3.6)
-👩 Pronouns: She/Her
+
+
+- 🔭 I’m currently working on Full-stack web development
+- 🌱 I’m currently learning ReactJS,NodeJS,Machine learning
+- 👯 I’m looking to collaborate on web-dev projects.
+- 📫 How to reach me: You may follow me on [Instagram](https://www.instagram.com/_anu_36) or [Facebook](https://www.facebook.com/anupreet.3.6)
+- 👩 Pronouns: She/Her
 <br />
 
 <img src="https://github.com/Anupreetadas/Anupreetadas/blob/main/img/languages.png" width="100%" height="140">

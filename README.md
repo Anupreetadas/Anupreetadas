@@ -14,7 +14,7 @@ Machine 🛠 learning:robot:
 - 👩 Pronouns: She/Her
 <br />
 
-<img src="https://github.com/Anupreetadas/Anupreetadas/blob/main/img/languages.png" width="100%" height="140">
+<img src="https://github.com/Anupreetadas/Anupreetadas/blob/main/img/languages2.jpg" width="100%">
 
 ### 🛠 Languages and Tools
 

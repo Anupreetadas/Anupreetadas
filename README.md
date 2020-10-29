@@ -1,6 +1,6 @@
 ![Hey there, I'm Anupreeta. I'm a software developer.](https://github.com/Anupreetadas/Anupreetadas/blob/main/img/profile.gif)
 
-I,m a 20 Y/O Software Developer✨ who is passionate about making open-source more accessible and creating technology to elevate people.💿💡.I like to solve real worldproblems🌍 and optimising the solutions💡 for a better performance☑.I'm passionate about learning new technologies 👁web-development🎯,cloud computing:cloud:,
+I'm a 20 Y/O Software Developer✨ who is passionate about making open-source more accessible and creating technology to elevate people.💿💡.I like to solve real worldproblems🌍 and optimising the solutions💡 for a better performance☑.I'm passionate about learning new technologies 👁web-development🎯,cloud computing:cloud:,
 Machine 🛠 learning:robot:
 
 

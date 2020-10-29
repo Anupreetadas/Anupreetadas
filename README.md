@@ -76,7 +76,6 @@ Machine 🛠 learning:robot:
   <p align="center">
   
   [<img height="70" src="https://cdn2.iconfinder.com/data/icons/popular-social-media-flat/48/Popular_Social_Media-22-512.png">](https://www.linkedin.com/in/anupreeta-das-821a0816b/)
-  
   [<img height="70" src="https://cdn2.iconfinder.com/data/icons/popular-social-media-flat/48/Popular_Social_Media-03-512.png">](https://www.facebook.com/anupreet.3.6)
   [<img height="70" src="https://cdn2.iconfinder.com/data/icons/popular-social-media-flat/48/Popular_Social_Media-08-512.png">](https://www.instagram.com/_anu_36/)
   

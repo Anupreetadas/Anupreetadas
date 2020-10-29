@@ -80,5 +80,5 @@ Machine 🛠 learning:robot:
   
   ### Show some love and support 💖
   
-  <img width="100%" align="center" src="https://github.com/Anupreetadas/Anupreetadas/blob/main/img/header.png">
+  <img width="100%" height="180" align="center" src="https://github.com/Anupreetadas/Anupreetadas/blob/main/img/header.png">
  

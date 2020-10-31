@@ -1,4 +1,6 @@
-![Hey there, I'm Anupreeta. I'm a software developer.](https://github.com/Anupreetadas/Anupreetadas/blob/main/img/profile.gif)
+
+# Hi Amigos, I'm Anupreeta! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+
 
 <img src="https://raw.githubusercontent.com/Subhampreet/Anupreetadas/main/img/side.jpg" width="30%" align="right" >
 

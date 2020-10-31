@@ -1,5 +1,7 @@
 ![Hey there, I'm Anupreeta. I'm a software developer.](https://github.com/Anupreetadas/Anupreetadas/blob/main/img/profile.gif)
 
+<img src="https://raw.githubusercontent.com/Subhampreet/Anupreetadas/main/img/side.jpg" width="30%" align="right" >
+
 I'm a 20 Y/O Software Developer✨ who is passionate about making open-source more accessible and creating technology to elevate people.💿💡.I like to solve real worldproblems🌍 and optimising the solutions💡 for a better performance☑.I'm passionate about learning new technologies 👁web-development🎯,cloud computing:cloud:,
 Machine 🛠 learning:robot:
 
@@ -14,7 +16,6 @@ Machine 🛠 learning:robot:
 - 👩 Pronouns: She/Her
 <br />
 
-<img src="https://github.com/Anupreetadas/Anupreetadas/blob/main/img/languages2.jpg" width="100%">
 
 ### 🛠 Languages and Tools
 
@@ -71,17 +72,22 @@ Machine 🛠 learning:robot:
   
   ![Github stats](https://github-readme-stats.vercel.app/api?username=Anupreetadas&hide=["issues"])
   
-  ### 🙌 Follow me on 
   
-  <p align="center">
-  
+  <div align="center">
+    
+   ### 🙌 Follow me on 
+
   [<img height="70" src="https://cdn2.iconfinder.com/data/icons/popular-social-media-flat/48/Popular_Social_Media-22-512.png">](https://www.linkedin.com/in/anupreeta-das-821a0816b/)
   [<img height="70" src="https://cdn2.iconfinder.com/data/icons/popular-social-media-flat/48/Popular_Social_Media-03-512.png">](https://www.facebook.com/anupreet.3.6)
   [<img height="70" src="https://cdn2.iconfinder.com/data/icons/popular-social-media-flat/48/Popular_Social_Media-08-512.png">](https://www.instagram.com/_anu_36/)
+    
+   ### Show some love and support 💖
+
+  </div>
   
-  </p>
+  <img src="https://raw.githubusercontent.com/Subhampreet/Anupreetadas/main/img/footer-main.jpg" width="100%" >
   
-  ### Show some love and support 💖
   
-  ![](https://github.com/Anupreetadas/Anupreetadas/blob/main/img/footer.png)
+  
+  
  

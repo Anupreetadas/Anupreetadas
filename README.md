@@ -39,9 +39,9 @@ Machine 🛠 learning:robot:
 [<img src="https://github.com/Subhampreet/Anupreetadas/blob/main/logos/php.png?raw=true" height="60" width="60">](https://www.youtube.com/watch?v=OK_JCtrrv-c&t=12918s)
 [<img src="https://github.com/Subhampreet/Anupreetadas/blob/main/logos/sql.png?raw=true" height="60" width="60">](https://www.youtube.com/watch?v=HXV3zeQKqGY)
 [<img src="https://github.com/Subhampreet/Anupreetadas/blob/main/logos/postgres.png?raw=true" height="60" width="60">](https://www.youtube.com/watch?v=qw--VYLpxG4)
-[<img src="https://github.com/Subhampreet/Anupreetadas/blob/main/logos/git.png?raw=true" height="60" width="60">](https://www.youtube.com/watch?v=HXV3zeQKqGY)
-[<img src="https://github.com/Subhampreet/Anupreetadas/blob/main/logos/vs.png?raw=true" height="60" width="60">](https://www.youtube.com/watch?v=HXV3zeQKqGY)
-[<img src="https://github.com/Subhampreet/Anupreetadas/blob/main/logos/bootstrap.png" height="60" width="60">](https://www.youtube.com/watch?v=HXV3zeQKqGY)
+[<img src="https://github.com/Subhampreet/Anupreetadas/blob/main/logos/git.png?raw=true" height="60" width="60">](https://www.youtube.com/watch?v=RGOj5yH7evk)
+[<img src="https://github.com/Subhampreet/Anupreetadas/blob/main/logos/vs.png?raw=true" height="60" width="60">](https://www.youtube.com/watch?v=VqCgcpAypFQ)
+[<img src="https://github.com/Subhampreet/Anupreetadas/blob/main/logos/bootstrap.png" height="60" width="60">](https://www.youtube.com/watch?v=vpAJ0s5S2t0)
 
 </div>
   
@@ -58,7 +58,7 @@ Machine 🛠 learning:robot:
  ## :mailbox: How to reach me : 
 
   
-[<img src="https://img.icons8.com/bubbles/50/000000/gmail.png"/>](mailto:dasanupreeta30@gmail.com)
+[<img src="https://img.icons8.com/bubbles/50/000000/gmail.png"/>](mailto:anupreeta1990@gmail.com)
 [<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>](https://www.linkedin.com/in/anupreeta-das-821a0816b/)
 [<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/github.png">](https://github.com/Anupreetadas)
 [<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/instagram-new.png" />](https://www.instagram.com/_anu_36/)

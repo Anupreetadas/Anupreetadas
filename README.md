@@ -1,4 +1,8 @@
-# नमस्ते (Namaste), I'm Anupreeta Das! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+<img src="https://github.com/Subhampreet/Anupreetadas/blob/main/img/hello.png" width="100%" >
+
+<h1 align="center"> नमस्ते (Namaste), I'm Anupreeta Das <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
+
+<h3 align="center">I'm a Software and Web Developer from India ❤</h3>
 
 
 <img src="https://raw.githubusercontent.com/Subhampreet/Anupreetadas/main/img/side.jpg" width="30%" align="right" >
@@ -19,7 +23,8 @@ Machine 🛠 learning:robot:
 
 
 ### 🛠 Languages and Tools
-
+<div align="center">
+  
 [<img src="https://raw.githubusercontent.com/Subhampreet/Anupreetadas/main/logos/c%2B%2B.jpg" height="60" width="60">](https://www.youtube.com/watch?v=vLnPwxZdW4Y)
 [<img src="https://raw.githubusercontent.com/Subhampreet/Anupreetadas/main/logos/python.jpg" height="60" width="60">](https://www.youtube.com/watch?v=QXeEoD0pB3E&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3)
 [<img src="https://github.com/Subhampreet/Anupreetadas/blob/main/logos/android.png?raw=true" height="60" width="60">](https://www.youtube.com/watch?v=fis26HvvDII)
@@ -36,7 +41,9 @@ Machine 🛠 learning:robot:
 [<img src="https://github.com/Subhampreet/Anupreetadas/blob/main/logos/postgres.png?raw=true" height="60" width="60">](https://www.youtube.com/watch?v=qw--VYLpxG4)
 [<img src="https://github.com/Subhampreet/Anupreetadas/blob/main/logos/git.png?raw=true" height="60" width="60">](https://www.youtube.com/watch?v=HXV3zeQKqGY)
 [<img src="https://github.com/Subhampreet/Anupreetadas/blob/main/logos/vs.png?raw=true" height="60" width="60">](https://www.youtube.com/watch?v=HXV3zeQKqGY)
+[<img src="https://github.com/Subhampreet/Anupreetadas/blob/main/logos/bootstrap.png" height="60" width="60">](https://www.youtube.com/watch?v=HXV3zeQKqGY)
 
+</div>
   
   <br />
   

@@ -81,7 +81,9 @@ Machine 🛠 learning:robot:
 [<img src="https://img.icons8.com/bubbles/50/000000/gmail.png"/>](mailto:jatinrao8630@gmail.com)
 [<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>](https://www.linkedin.com/in/jatinrao/)
 [<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/github.png">](https://www.github.com/jatin2003/)
-[<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/instagram-new.png"/>](https://www.instagram.com/jatinrao.dev/)
+[<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/instagram-new.png" />](https://www.instagram.com/jatinrao.dev/)
+
+<br>
   
   
   <div align="center">

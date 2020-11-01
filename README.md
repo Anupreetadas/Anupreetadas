@@ -1,4 +1,3 @@
-
 # नमस्ते (Namaste), I'm Anupreeta Das! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 
@@ -21,51 +20,23 @@ Machine 🛠 learning:robot:
 
 ### 🛠 Languages and Tools
 
-<table>
-  <tr>
-    <td>
-      C/C++
-      
- [<img height="70" src="https://github.com/Anupreetadas/Anupreetadas/blob/main/logos/c.png">](https://www.youtube.com/watch?v=vLnPwxZdW4Y)</td>
- <td> Python
-  
-[<img height="70" src="https://github.com/Anupreetadas/Anupreetadas/blob/main/logos/python.jpg">](https://www.youtube.com/watch?v=QXeEoD0pB3E&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3)</td>
-<td>Machine Learning
-  
-[<img height="70"  src="https://github.com/Anupreetadas/Anupreetadas/blob/main/logos/ml.png">](https://www.youtube.com/watch?v=gmvvaobm7eQ&list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw)</td>
+[<img src="https://raw.githubusercontent.com/Subhampreet/Anupreetadas/main/logos/c%2B%2B.jpg" height="60" width="60">](https://www.youtube.com/watch?v=vLnPwxZdW4Y)
+[<img src="https://raw.githubusercontent.com/Subhampreet/Anupreetadas/main/logos/python.jpg" height="60" width="60">](https://www.youtube.com/watch?v=QXeEoD0pB3E&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3)
+[<img src="https://github.com/Subhampreet/Anupreetadas/blob/main/logos/android.png?raw=true" height="60" width="60">](https://www.youtube.com/watch?v=fis26HvvDII)
+[<img src="https://github.com/Subhampreet/Anupreetadas/blob/main/logos/html.png?raw=true" height="60" width="60">](https://www.youtube.com/watch?v=vLnPwxZdW4Y)
+[<img src="https://github.com/Subhampreet/Anupreetadas/blob/main/logos/css.png?raw=true" height="60" width="60">](https://www.youtube.com/watch?v=vLnPwxZdW4Y)
+[<img src="https://github.com/Subhampreet/Anupreetadas/blob/main/logos/ML.jpg?raw=true" height="60" width="60">](https://www.youtube.com/watch?v=gmvvaobm7eQ&list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw)
+[<img src="https://github.com/Subhampreet/Anupreetadas/blob/main/logos/JS.png?raw=true" height="60" width="60">](https://www.youtube.com/watch?v=Qqx_wzMmFeA&t=107s)
+[<img src="https://github.com/Subhampreet/Anupreetadas/blob/main/logos/django.jpg?raw=true" height="60" width="60">](https://www.youtube.com/watch?v=OTmQOjsl0eg&t=6083s)
 
-<td> Android 
-  
-[<img height="70" src="https://github.com/Anupreetadas/Anupreetadas/blob/main/logos/android.png">](https://www.youtube.com/watch?v=fis26HvvDII)</td>
-<td>HTML/CSS 
-  
-[<img height="70" src="https://github.com/Anupreetadas/Anupreetadas/blob/main/logos/html.png">](https://www.youtube.com/watch?v=mU6anWqZJcc)</td>
-<td> Javascript 
-  
-[<img height="70"  src="https://github.com/Anupreetadas/Anupreetadas/blob/main/logos/javascript.jpg">](https://www.youtube.com/watch?v=Qqx_wzMmFeA&t=107s)</td>
-</tr>
-  <tr>
-  <td>Django
- 
- [<img height="70" src="https://github.com/Anupreetadas/Anupreetadas/blob/main/logos/django.png">](https://www.youtube.com/watch?v=OTmQOjsl0eg&t=6083s)</td>
- <td>NodeJS
-  
-  [<img height="70" src="https://github.com/Anupreetadas/Anupreetadas/blob/main/logos/node.png">](https://www.youtube.com/watch?v=RLtyhwFtXQA)</td>
-  <td> ReactJS
-  
-[<img height="70" src="https://github.com/Anupreetadas/Anupreetadas/blob/main/logos/react.png">](https://www.youtube.com/watch?v=-cMqr9HpZ-Y)</td>
+[<img src="https://github.com/Subhampreet/Anupreetadas/blob/main/logos/node.jpeg?raw=true" height="60" width="60">](https://www.youtube.com/watch?v=RLtyhwFtXQA)
+[<img src="https://github.com/Subhampreet/Anupreetadas/blob/main/logos/react.png?raw=true" height="60" width="60">](https://www.youtube.com/watch?v=-cMqr9HpZ-Y)
+[<img src="https://github.com/Subhampreet/Anupreetadas/blob/main/logos/php.png?raw=true" height="60" width="60">](https://www.youtube.com/watch?v=OK_JCtrrv-c&t=12918s)
+[<img src="https://github.com/Subhampreet/Anupreetadas/blob/main/logos/sql.png?raw=true" height="60" width="60">](https://www.youtube.com/watch?v=HXV3zeQKqGY)
+[<img src="https://github.com/Subhampreet/Anupreetadas/blob/main/logos/postgres.png?raw=true" height="60" width="60">](https://www.youtube.com/watch?v=qw--VYLpxG4)
+[<img src="https://github.com/Subhampreet/Anupreetadas/blob/main/logos/git.png?raw=true" height="60" width="60">](https://www.youtube.com/watch?v=HXV3zeQKqGY)
+[<img src="https://github.com/Subhampreet/Anupreetadas/blob/main/logos/vs.png?raw=true" height="60" width="60">](https://www.youtube.com/watch?v=HXV3zeQKqGY)
 
-<td> PHP 
-  
-[<img height="70" src="https://github.com/Anupreetadas/Anupreetadas/blob/main/logos/php.png">](https://www.youtube.com/watch?v=OK_JCtrrv-c&t=12918s)</td>
-<td> MySql 
-  
-[<img height="70" src="https://github.com/Anupreetadas/Anupreetadas/blob/main/logos/mysql.svg">](https://www.youtube.com/watch?v=HXV3zeQKqGY)</td>
-<td> Postgresql 
-  
-[<img height="70" src="https://github.com/Anupreetadas/Anupreetadas/blob/main/logos/postgre.png">](https://www.youtube.com/watch?v=qw--VYLpxG4)</td>
-  </tr>
-  </table>
   
   <br />
   
@@ -74,14 +45,17 @@ Machine 🛠 learning:robot:
   
  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Anupreetadas&show_icons=true&hide_border=true" >
   
+ 
  <br>
  
  ## :mailbox: How to reach me : 
 
+  
 [<img src="https://img.icons8.com/bubbles/50/000000/gmail.png"/>](mailto:jatinrao8630@gmail.com)
 [<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>](https://www.linkedin.com/in/jatinrao/)
 [<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/github.png">](https://www.github.com/jatin2003/)
 [<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/instagram-new.png" />](https://www.instagram.com/jatinrao.dev/)
+
 
 <br>
   
@@ -93,7 +67,6 @@ Machine 🛠 learning:robot:
   </div>
   
   <img src="https://raw.githubusercontent.com/Subhampreet/Anupreetadas/main/img/footer-main.jpg" width="100%" >
-  
   
   
   

@@ -22,7 +22,7 @@ Machine 🛠 learning:robot:
 <br />
 
 
-### 🛠 Languages and Tools
+### 🛠 Languages and Tools <br> <br>
 <div align="center">
   
 [<img src="https://raw.githubusercontent.com/Subhampreet/Anupreetadas/main/logos/c%2B%2B.jpg" height="60" width="60">](https://www.youtube.com/watch?v=vLnPwxZdW4Y)

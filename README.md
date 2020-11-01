@@ -58,10 +58,11 @@ Machine 🛠 learning:robot:
  ## :mailbox: How to reach me : 
 
   
-[<img src="https://img.icons8.com/bubbles/50/000000/gmail.png"/>](mailto:jatinrao8630@gmail.com)
-[<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>](https://www.linkedin.com/in/jatinrao/)
-[<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/github.png">](https://www.github.com/jatin2003/)
-[<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/instagram-new.png" />](https://www.instagram.com/jatinrao.dev/)
+[<img src="https://img.icons8.com/bubbles/50/000000/gmail.png"/>](mailto:dasanupreeta30@gmail.com)
+[<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>](https://www.linkedin.com/in/anupreeta-das-821a0816b/)
+[<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/github.png">](https://github.com/Anupreetadas)
+[<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/instagram-new.png" />](https://www.instagram.com/_anu_36/)
+[<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/facebook.png" />](https://www.facebook.com/anupreet.3.6)
 
 
 <br>
